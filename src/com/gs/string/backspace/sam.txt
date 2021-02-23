@@ -1,0 +1,20 @@
+ public static void main(String[] argv) {
+    String[][] prereqsCourses1 = {
+        {"Foundations of Computer Science", "Operating Systems"},
+        {"Data Structures", "Algorithms"},
+        {"Computer Networks", "Computer Architecture"}, 
+        {"Algorithms", "Foundations of Computer Science"},
+        {"Computer Architecture", "Data Structures"},
+        {"Software Design", "Computer Networks"}
+    };
+
+    String[][] prereqsCourses2 = {
+        {"Data Structures", "Algorithms"},
+        {"Algorithms", "Foundations of Computer Science"},
+        {"Foundations of Computer Science", "Logic"}
+    };
+
+    String[][] prereqsCourses3 = {
+        {"Data Structures", "Algorithms"}
+    };
+  }
