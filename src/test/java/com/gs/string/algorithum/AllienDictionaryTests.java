@@ -1,8 +1,9 @@
-package com.gs.dictionary;
+package com.gs.string.algorithum;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
+import com.gs.string.algorithum.AllienDictionary;
 
 public class AllienDictionaryTests {
 

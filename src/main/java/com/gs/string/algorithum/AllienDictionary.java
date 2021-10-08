@@ -1,4 +1,4 @@
-package com.gs.dictionary;
+package com.gs.string.algorithum;
 
 import java.util.*;
 

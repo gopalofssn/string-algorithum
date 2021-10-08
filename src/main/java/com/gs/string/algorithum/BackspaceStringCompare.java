@@ -1,4 +1,4 @@
-package com.gs.string.backspace.compare;
+package com.gs.string.algorithum;
 
 public class BackspaceStringCompare {
 
@@ -42,10 +42,4 @@ public class BackspaceStringCompare {
     
   }
 
-
-
-  public static void main(String[] args) {
-    System.out.println(new BackspaceStringCompare().backspaceCompare("lc#d#", "lab##"));
-    System.out.println(new BackspaceStringCompare().backspaceCompare("#lc#d#", "##lab##"));
-  }
 }
